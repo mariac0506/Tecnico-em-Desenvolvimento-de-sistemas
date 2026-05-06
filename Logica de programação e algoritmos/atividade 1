@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    real dobro, numero 
+
+    escreva ("número=")
+    leia(numero)
+
+    dobro = numero * 2
+    escreva ( "dobro = ", dobro)
+  }
+}
